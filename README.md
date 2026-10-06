@@ -69,13 +69,13 @@
 ```
 vk-feed-recsys/
 ├── README.md
-├── data/            # срез VK-LSVD, скачивается скриптом (в git не входит)
-├── notebooks/       # 01_eda, 02_baselines, 03_multiobjective, ...
-├── src/             # данные, признаки, модели, оценка
-├── service/         # FastAPI-сервис
-├── configs/         # параметры экспериментов
+├── data/
+├── notebooks/
+├── src/
+├── service/
+├── configs/
 ├── tests/
-└── reports/         # отчёты по чекпойнтам и презентации
+└── reports/
 ```
 
 ## Ссылки
