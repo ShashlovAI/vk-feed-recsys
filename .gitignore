@@ -1,0 +1,23 @@
+# данные и артефакты
+data/*
+!data/.gitkeep
+mlruns/
+models/
+*.parquet
+*.npz
+*.cbm
+*.pt
+
+# python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# jupyter
+.ipynb_checkpoints/
+
+# macOS / IDE
+.DS_Store
+.vscode/
+.idea/
