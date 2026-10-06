@@ -126,7 +126,11 @@ vk-feed-recsys/
 
 ## Запуск
 
-Появится к чекпойнту 4. Целевой вид:
+```bash
+git clone https://github.com/ShashlovAI/vk-feed-recsys.git
+```
+
+Остальное появится к чекпойнту 4. Целевой вид:
 
 ```bash
 make data       # скачать срез
