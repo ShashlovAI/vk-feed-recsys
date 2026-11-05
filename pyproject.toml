@@ -1,0 +1,14 @@
+[project]
+name = "vk-feed-recsys"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb==2.0.0",
+    "ipykernel==7.4.0",
+    "ipython==9.17.1",
+    "jupyterlab>=4.6.5",
+    "matplotlib==3.11.2",
+    "numpy==2.5.4",
+    "pandas==3.1.0",
+    "seaborn==0.13.2",
+]
